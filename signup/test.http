@@ -1,0 +1,17 @@
+POST http://localhost:4000/app/signup
+Content-Type : application/json 
+
+
+
+# {
+#     "fullName":"manoj",
+#     "username":"manojkumar",
+#     "email":"manoj@gmail.com",
+#     "password":"kejdshf"
+# }
+# {
+#     "fullName":"aravind Reddy",
+#     "username" : "ary",
+#     "email":"jaravindreddy@gmail.com",
+#     "password":"aravindabcd"
+# }

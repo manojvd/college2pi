@@ -1,0 +1,12 @@
+.Signup{
+    margin: auto;
+    padding: 3%;
+    background-color: burlywood;
+    height: 600px;
+    width: 50%;
+    text-align: center;   
+}
+
+.Signup input{
+    width: 60%;
+}

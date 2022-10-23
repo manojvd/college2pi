@@ -1,0 +1,126 @@
+/* body {
+  margin: 0;
+  color: #ddd;
+  background-color: rgba(0,0,0,);
+}
+
+.header {
+  text-align: center;
+  width: 100%;
+}
+
+#navlist {
+  overflow: hidden;
+  background-color: #0074D9;
+  width: 100%;
+}
+
+
+#navlist a {
+  float:left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+
+
+#navlist a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+#navlist b{
+  margin-top: 4px;
+  padding: 8px 12px;
+  color:lime;
+  float: left;
+  font-size: 22px;
+}
+
+.scrollable b {
+  font-family: 'Special Elite', cursive;
+  font-size: 28px;
+  padding: 10px;
+}
+
+.content {
+  padding: 16px;
+}
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+ */
+
+ body {
+  margin: 0;
+  color: #ddd;
+  background-color: rgba(122, 122, 122, 0.863);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.header {
+  text-align: center;
+  width: 100%;
+}
+
+#navlist {
+  overflow: hidden;
+  background-color:blueviolet;
+  width: 100%;
+  border-radius: 6px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: bold;
+}
+
+/* navlist designing */
+#navlist a {
+  float:left;
+  display: block;
+  color: rgb(255, 255, 204);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+
+/* navlist link hover effect */
+#navlist a:hover {
+  color:rgb(255, 255, 255);
+  font-size: large;
+}
+
+#navlist b{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  margin-top: 4px;
+  padding: 8px 12px;
+  color:rgb(255, 255, 204);
+  float: left;
+  font-size: 22px;
+  
+}
+
+/* scroll portion design */
+.scrollable b {
+  font-family: 'Special Elite', cursive;
+  font-size: 28px;
+  padding: 10px;
+}
+
+.content {
+  padding: 16px;
+}
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+

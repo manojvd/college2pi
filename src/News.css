@@ -1,0 +1,11 @@
+.News{
+    width: 50%;
+    height: 250px;
+    position: relative;
+    margin-left: 25%;
+    margin-right: 25%;
+    background-color: aquamarine;
+    color: brown;
+    text-align: center;
+
+}

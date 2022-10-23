@@ -1,0 +1,55 @@
+.College{
+    width: 50%;
+    height: 200px;
+    position:relative;
+    margin-left: 25%;
+    margin-right: 25%;
+    background-color: rgb(6, 8, 8);
+    color: rgb(68, 63, 63);
+    text-align: center;
+    display:flex;
+    border-radius: 5%;
+    /* justify-content: center; */
+
+}
+
+.Logo{
+    width:20%;
+    height: 50%;
+    margin: 2%;
+    background-color: rgb(148, 143, 143);
+    border-radius: 4px;
+}
+
+.Name{
+    width:96%;
+    height:20%;
+    margin: 2%;
+    background-color: rgb(250, 249, 249);
+}
+
+.Details{
+    width:96%;
+    height:60%;
+    margin: 2%;
+    background-color: rgb(150, 151, 151);
+    text-align: left;
+}
+
+.Info{
+    width:70%;
+    height:80%;
+    margin: 2%;
+    background-color: rgb(97, 97, 97);
+}
+
+.Details table{
+    padding:2px;
+    text-align: center;
+    color: azure;
+    width: 100%;
+
+}
+.Details button{
+    float: right;
+}

@@ -1,0 +1,11 @@
+.About{
+    display: block;
+    margin: auto;
+    padding: 3%;
+    background-color: rgb(135, 163, 179);
+    height: 600px;
+    width: 50%;
+    text-align: center;
+    /* vertical-align: middle; */ /* <---uncomment asap*/ 
+   
+}
